@@ -1,5 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/gitlab-runner-kubernetes)
-
 <p align="center">
   <img alt="gitlab" src="https://i.stack.imgur.com/o9y6Z.png" width="350px" float="center"/>
 </p>
@@ -12,6 +10,9 @@
   </a>
   <a href="http://commitizen.github.io/cz-cli/">
     <img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg">
+  </a>
+  <a href="https://gitpod.io/#https://github.com/lpmatos/gitlab-runner-kubernetes">
+    <img alt="Gitpod ready-to-code" src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod">
   </a>
 </p>
 
