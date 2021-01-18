@@ -90,11 +90,21 @@ You must send the project to your GitHub after the modifications
 
 ## ➤ Versioning
 
-* We currently do not have a CHANGELOG.md generated.
+* [CHANGELOG](CHANGELOG.md)
 
 ## ➤ Author
 
 👤 **Lucca Pessoa**
+
+Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
+
+>
+> * Email: luccapsm@gmail.com
+> * Website: [lpmatos](https://github.com/lpmatos)
+> * Github: [@lpmatos](https://github.com/lpmatos)
+> * GitLab: [@lpmatos](https://gitlab.com/lpmatos)
+> * LinkedIn: [@luccapessoa](https://www.linkedin.com/in/luccapessoa/)
+>
 
 ## ➤ Show your support
 
@@ -102,4 +112,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-This README was generated with ❤️ by **Lucca Pessoa**
+This README was generated with ❤️ by **me**
