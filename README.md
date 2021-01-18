@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/gitlab-runner-kubernetes)
+
 <p align="center">
   <img alt="gitlab" src="https://i.stack.imgur.com/o9y6Z.png" width="350px" float="center"/>
 </p>
